@@ -7,4 +7,7 @@ mysql table book_user-> login details
 mysql table books-> list of book
 msql table user_books-> join of both user and book
 
+username:maha
+pwd:1234
+
 
